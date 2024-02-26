@@ -19,7 +19,7 @@
     - 가장 성능이 좋게 나온 모델 3개 선택 및 앙상블
 <br>
 
-![image](https://github.com/SONGKJ817/Question-Answering-Modeling/assets/154766632/698f4449-cf65-4257-83c8-36c07ec591ef)
+![image](https://github.com/SONGKJ817/Question-Answering-Modeling/assets/154766632/4922d246-4be4-4dd7-b740-1a4b720e00d2)
 
 
 - 의의
