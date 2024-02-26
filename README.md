@@ -18,6 +18,8 @@
     - 따라서 한글 모델 이용 결정
     - 가장 성능이 좋게 나온 모델 3개 선택 및 앙상블
 <br>
+![image](https://github.com/SONGKJ817/Question-Answering-Modeling/assets/154766632/698f4449-cf65-4257-83c8-36c07ec591ef)
+
 
 - 의의
   - 우수상 수상(3등)
